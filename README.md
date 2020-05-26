@@ -2,7 +2,8 @@
 
 - Ubuntu 18.04
 - Python 3.6.9
-
+- PostgreSQL 10.12
+- SQLite 3.22
 
 ## Getting Started
 
